@@ -1,0 +1,9 @@
+langchain 
+langchain-community 
+langchain-core 
+sentence_transformers 
+faiss-cpu 
+langchain-groq 
+rank_bm25
+streamlit
+streamlit-option-menu
